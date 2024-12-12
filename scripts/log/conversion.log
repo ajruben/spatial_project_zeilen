@@ -2231,3 +2231,249 @@ geom: binary
 2024-12-12 16:02:30,457 - INFO - Converted DataFrame to GeoDataFrame
 2024-12-12 16:02:30,458 - INFO - Data loaded successfully in 0.07 seconds.
 2024-12-12 16:02:30,459 - INFO - Closed the GeoPackage datasource: ..\data\converted_datav2.gpkg
+2024-12-12 18:05:56,661 - INFO - Processing shapefile: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp
+2024-12-12 18:05:57,061 - INFO - Successfully converted: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp to ..\data\converted_datav2.gpkg
+2024-12-12 18:05:57,061 - INFO - Processing shapefile: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp
+2024-12-12 18:05:57,623 - INFO - Successfully converted: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp to ..\data\converted_datav2.gpkg
+2024-12-12 18:05:57,623 - INFO - All shapefiles processed.
+2024-12-12 18:10:17,843 - INFO - Loaded layer 'vaarweg_markering_drijvend_detailPoint' from ..\data\converted_datav2.gpkg
+2024-12-12 18:10:17,843 - INFO - Loaded OGR Arrow stream
+2024-12-12 18:10:17,849 - INFO - Schema retrieved: struct<fid: int64 not null, vaarwater: string, benam_cod: string, benaming: string, inbedrijf: string, x_rd: string, y_rd: string, obj_soort: string, iala_categ: string, n_wgs_gms: string, e_wgs_gms: string, n_wgs_gm: string, e_wgs_gm: string, obj_vorm_c: string, obj_vorm: string, obj_kleur_: string, obj_kleur: string, kleurpatr_: string, kleurpatr: string, v_tt_c: string, tt_toptek: string, tt_kleur_c: string, tt_kleur: string, tt_pat_c: string, tt_klr_pat: string, sign_kar_c: string, sign_kar: string, sign_gr_c: string, sign_groep: string, sign_perio: string, racon_code: string, licht_kl_c: string, licht_klr: string, opgeheven: string, x_wgs84: double, y_wgs84: double, vorm_kleur: string, s57_id: int32, geom: binary>
+2024-12-12 18:10:17,853 - INFO - Field names extracted: ['fid', 'vaarwater', 'benam_cod', 'benaming', 'inbedrijf', 'x_rd', 'y_rd', 'obj_soort', 'iala_categ', 'n_wgs_gms', 'e_wgs_gms', 'n_wgs_gm', 'e_wgs_gm', 'obj_vorm_c', 'obj_vorm', 'obj_kleur_', 'obj_kleur', 'kleurpatr_', 'kleurpatr', 'v_tt_c', 'tt_toptek', 'tt_kleur_c', 'tt_kleur', 'tt_pat_c', 'tt_klr_pat', 'sign_kar_c', 'sign_kar', 'sign_gr_c', 'sign_groep', 'sign_perio', 'racon_code', 'licht_kl_c', 'licht_klr', 'opgeheven', 'x_wgs84', 'y_wgs84', 'vorm_kleur', 's57_id', 'geom']
+2024-12-12 18:10:17,856 - INFO - Schema object defined: fid: int64 not null
+vaarwater: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+benam_cod: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+benaming: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+inbedrijf: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+x_rd: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+y_rd: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+obj_soort: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+iala_categ: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+n_wgs_gms: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+e_wgs_gms: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+n_wgs_gm: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+e_wgs_gm: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+obj_vorm_c: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+obj_vorm: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+obj_kleur_: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+obj_kleur: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+kleurpatr_: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+kleurpatr: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+v_tt_c: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+tt_toptek: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+tt_kleur_c: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+tt_kleur: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+tt_pat_c: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+tt_klr_pat: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+sign_kar_c: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+sign_kar: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+sign_gr_c: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+sign_groep: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+sign_perio: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+racon_code: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+licht_kl_c: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+licht_klr: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+opgeheven: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+x_wgs84: double
+y_wgs84: double
+vorm_kleur: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+s57_id: int32
+geom: binary
+  -- field metadata --
+  ARROW:extension:name: 'ogc.wkb'
+2024-12-12 18:10:17,892 - INFO - Created PyArrow table with 9911 rows and 39 columns.
+2024-12-12 18:10:17,961 - INFO - Converted PyArrow table to pandas DataFrame
+2024-12-12 18:10:17,999 - INFO - Converted DataFrame to GeoDataFrame
+2024-12-12 18:10:17,999 - INFO - Data loaded successfully in 0.16 seconds.
+2024-12-12 18:10:17,999 - INFO - Closed the GeoPackage datasource: ..\data\converted_datav2.gpkg
+2024-12-12 18:15:11,223 - INFO - Processing shapefile: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp
+2024-12-12 18:15:11,580 - INFO - Successfully converted: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp to ..\data\converted_datav2.gpkg
+2024-12-12 18:15:11,585 - INFO - Processing shapefile: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp
+2024-12-12 18:15:12,091 - INFO - Successfully converted: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp to ..\data\converted_datav2.gpkg
+2024-12-12 18:15:12,093 - INFO - All shapefiles processed.
+2024-12-12 18:15:12,188 - INFO - Loaded layer 'vaarweg_markering_drijvend_detailPoint' from ..\data\converted_datav2.gpkg
+2024-12-12 18:15:12,196 - INFO - Loaded OGR Arrow stream
+2024-12-12 18:15:12,200 - INFO - Schema retrieved: struct<fid: int64 not null, vaarwater: string, benam_cod: string, benaming: string, inbedrijf: string, x_rd: string, y_rd: string, obj_soort: string, iala_categ: string, n_wgs_gms: string, e_wgs_gms: string, n_wgs_gm: string, e_wgs_gm: string, obj_vorm_c: string, obj_vorm: string, obj_kleur_: string, obj_kleur: string, kleurpatr_: string, kleurpatr: string, v_tt_c: string, tt_toptek: string, tt_kleur_c: string, tt_kleur: string, tt_pat_c: string, tt_klr_pat: string, sign_kar_c: string, sign_kar: string, sign_gr_c: string, sign_groep: string, sign_perio: string, racon_code: string, licht_kl_c: string, licht_klr: string, opgeheven: string, x_wgs84: double, y_wgs84: double, vorm_kleur: string, s57_id: int32, geom: binary>
+2024-12-12 18:15:12,200 - INFO - Field names extracted: ['fid', 'vaarwater', 'benam_cod', 'benaming', 'inbedrijf', 'x_rd', 'y_rd', 'obj_soort', 'iala_categ', 'n_wgs_gms', 'e_wgs_gms', 'n_wgs_gm', 'e_wgs_gm', 'obj_vorm_c', 'obj_vorm', 'obj_kleur_', 'obj_kleur', 'kleurpatr_', 'kleurpatr', 'v_tt_c', 'tt_toptek', 'tt_kleur_c', 'tt_kleur', 'tt_pat_c', 'tt_klr_pat', 'sign_kar_c', 'sign_kar', 'sign_gr_c', 'sign_groep', 'sign_perio', 'racon_code', 'licht_kl_c', 'licht_klr', 'opgeheven', 'x_wgs84', 'y_wgs84', 'vorm_kleur', 's57_id', 'geom']
+2024-12-12 18:15:12,200 - INFO - Schema object defined: fid: int64 not null
+vaarwater: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+benam_cod: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+benaming: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+inbedrijf: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+x_rd: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+y_rd: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+obj_soort: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+iala_categ: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+n_wgs_gms: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+e_wgs_gms: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+n_wgs_gm: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+e_wgs_gm: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+obj_vorm_c: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+obj_vorm: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+obj_kleur_: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+obj_kleur: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+kleurpatr_: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+kleurpatr: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+v_tt_c: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+tt_toptek: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+tt_kleur_c: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+tt_kleur: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+tt_pat_c: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+tt_klr_pat: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+sign_kar_c: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+sign_kar: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+sign_gr_c: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+sign_groep: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+sign_perio: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+racon_code: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+licht_kl_c: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+licht_klr: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+opgeheven: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+x_wgs84: double
+y_wgs84: double
+vorm_kleur: string
+  -- field metadata --
+  GDAL:OGR:width: '254'
+s57_id: int32
+geom: binary
+  -- field metadata --
+  ARROW:extension:name: 'ogc.wkb'
+2024-12-12 18:15:12,233 - INFO - Created PyArrow table with 19822 rows and 39 columns.
+2024-12-12 18:15:12,274 - INFO - Converted PyArrow table to pandas DataFrame
+2024-12-12 18:15:12,299 - INFO - Converted DataFrame to GeoDataFrame
+2024-12-12 18:15:12,301 - INFO - Data loaded successfully in 0.11 seconds.
+2024-12-12 18:15:12,301 - INFO - Closed the GeoPackage datasource: ..\data\converted_datav2.gpkg
