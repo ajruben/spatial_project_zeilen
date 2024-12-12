@@ -12,3 +12,46 @@
 2024-12-12 10:11:32,397 - INFO - Processing shapefile: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp
 2024-12-12 10:11:32,846 - INFO - Successfully converted: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp to ..\data\converted_data.gpkg
 2024-12-12 10:11:32,846 - INFO - All shapefiles processed.
+2024-12-12 10:48:07,402 - INFO - Loaded vaarweg_markering_drijvend_detailPoint with OGR from ..\data\converted_data.gpkg
+2024-12-12 10:48:07,402 - ERROR - An error occurred while loading the layer vaarweg_markering_drijvend_detailPoint: 'Logger' object has no attribute 'debug'
+2024-12-12 10:48:07,402 - INFO - Closed the datasource for ..\data\converted_data.gpkg
+2024-12-12 10:48:30,154 - INFO - Loaded vaarweg_markering_drijvend_detailPoint with OGR from ..\data\converted_data.gpkg
+2024-12-12 10:48:30,154 - INFO - Loaded OGR arrow stream
+2024-12-12 10:48:30,187 - ERROR - An error occurred while loading the layer vaarweg_markering_drijvend_detailPoint: Expected integer or string index
+2024-12-12 10:48:30,189 - INFO - Closed the datasource for ..\data\converted_data.gpkg
+2024-12-12 10:49:50,101 - INFO - Loaded layer 'vaarweg_markering_drijvend_detailPoint' from ..\data\converted_data.gpkg
+2024-12-12 10:49:50,102 - INFO - Loaded OGR Arrow stream
+2024-12-12 10:49:50,103 - INFO - Field names extracted: ['fid', 'vaarwater', 'benam_cod', 'benaming', 'inbedrijf', 'x_rd', 'y_rd', 'obj_soort', 'iala_categ', 'n_wgs_gms', 'e_wgs_gms', 'n_wgs_gm', 'e_wgs_gm', 'obj_vorm_c', 'obj_vorm', 'obj_kleur_', 'obj_kleur', 'kleurpatr_', 'kleurpatr', 'v_tt_c', 'tt_toptek', 'tt_kleur_c', 'tt_kleur', 'tt_pat_c', 'tt_klr_pat', 'sign_kar_c', 'sign_kar', 'sign_gr_c', 'sign_groep', 'sign_perio', 'racon_code', 'licht_kl_c', 'licht_klr', 'opgeheven', 'x_wgs84', 'y_wgs84', 'vorm_kleur', 's57_id', 'geom']
+2024-12-12 10:49:50,123 - INFO - Created PyArrow table with 9911 rows and 39 columns.
+2024-12-12 10:49:50,158 - INFO - Converted PyArrow table to pandas DataFrame
+2024-12-12 10:49:50,165 - INFO - Converted DataFrame to GeoDataFrame
+2024-12-12 10:49:50,165 - INFO - Data loaded successfully in 0.07 seconds.
+2024-12-12 10:49:50,167 - INFO - Closed the GeoPackage datasource: ..\data\converted_data.gpkg
+2024-12-12 10:50:42,203 - INFO - Loaded layer 'vaarweg_markering_drijvend_detailPoint' from ..\data\converted_data.gpkg
+2024-12-12 10:50:42,203 - INFO - Loaded OGR Arrow stream
+2024-12-12 10:50:42,203 - INFO - Field names extracted: ['fid', 'vaarwater', 'benam_cod', 'benaming', 'inbedrijf', 'x_rd', 'y_rd', 'obj_soort', 'iala_categ', 'n_wgs_gms', 'e_wgs_gms', 'n_wgs_gm', 'e_wgs_gm', 'obj_vorm_c', 'obj_vorm', 'obj_kleur_', 'obj_kleur', 'kleurpatr_', 'kleurpatr', 'v_tt_c', 'tt_toptek', 'tt_kleur_c', 'tt_kleur', 'tt_pat_c', 'tt_klr_pat', 'sign_kar_c', 'sign_kar', 'sign_gr_c', 'sign_groep', 'sign_perio', 'racon_code', 'licht_kl_c', 'licht_klr', 'opgeheven', 'x_wgs84', 'y_wgs84', 'vorm_kleur', 's57_id', 'geom']
+2024-12-12 10:50:42,222 - INFO - Created PyArrow table with 9911 rows and 39 columns.
+2024-12-12 10:50:42,247 - INFO - Converted PyArrow table to pandas DataFrame
+2024-12-12 10:50:42,254 - INFO - Converted DataFrame to GeoDataFrame
+2024-12-12 10:50:42,255 - INFO - Data loaded successfully in 0.05 seconds.
+2024-12-12 10:50:42,257 - INFO - Closed the GeoPackage datasource: ..\data\converted_data.gpkg
+2024-12-12 11:03:04,840 - INFO - Processing shapefile: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp
+2024-12-12 11:03:05,117 - INFO - Successfully converted: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp to ..\data\converted_data.gpkg
+2024-12-12 11:03:05,117 - INFO - Processing shapefile: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp
+2024-12-12 11:03:05,550 - INFO - Successfully converted: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp to ..\data\converted_data.gpkg
+2024-12-12 11:03:05,550 - INFO - All shapefiles processed.
+2024-12-12 11:03:16,300 - INFO - Processing shapefile: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp
+2024-12-12 11:03:16,567 - INFO - Successfully converted: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp to ..\data\converted_data.gpkg
+2024-12-12 11:03:16,567 - INFO - Processing shapefile: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp
+2024-12-12 11:03:17,016 - INFO - Successfully converted: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp to ..\data\converted_data.gpkg
+2024-12-12 11:03:17,016 - INFO - All shapefiles processed.
+2024-12-12 11:03:20,099 - INFO - Processing shapefile: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp
+2024-12-12 11:03:20,367 - INFO - Successfully converted: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp to ..\data\converted_data.gpkg
+2024-12-12 11:03:20,367 - INFO - Processing shapefile: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp
+2024-12-12 11:03:20,800 - INFO - Successfully converted: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp to ..\data\converted_data.gpkg
+2024-12-12 11:03:20,800 - INFO - All shapefiles processed.
+2024-12-12 11:03:47,499 - INFO - Processing shapefile: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp
+2024-12-12 11:03:47,766 - INFO - Successfully converted: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp to ..\data\converted_datav1.gpkg
+2024-12-12 11:03:47,766 - INFO - Processing shapefile: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp
+2024-12-12 11:03:48,216 - INFO - Successfully converted: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp to ..\data\converted_datav1.gpkg
+2024-12-12 11:03:48,216 - INFO - All shapefiles processed.
