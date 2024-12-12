@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<gpx
+ version="1.1"
+ creator="Nautin (op basis van RWS en BSH) - https://www.nautin.nl/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<name>Voorbeeld.gpx</name>
+<time>2024-12-06T14:37:39Z</time>
+<keywords></keywords>
+</metadata>
+<wpt lat="51.43821111" lon="4.01597222">
+<name>HW 2</name>
+<cmt>Geel # HW2 </cmt>
+<desc>Geel # HW2 </desc>
+</wpt>
+<wpt lat="51.43654722" lon="4.02249444">
+<name>HW 4</name>
+<cmt>Geel # HW4 </cmt>
+<desc>Geel # HW4 </desc>
+</wpt>
+<wpt lat="51.4349" lon="4.0269333333333">
+<name>HW 6</name>
+<cmt>Geel # HW6 </cmt>
+<desc>Geel # HW6 </desc>
+</wpt>
+<wpt lat="51.62320278" lon="4.07805556">
+<name>KR 1</name>
+<cmt>Groen # KR1 </cmt>
+<desc>Groen # KR1 </desc>
+</wpt>
+<wpt lat="51.613983333333344" lon="4.1008">
+<name>KR 10</name>
+<cmt>Rood # KR10 </cmt>
+<desc>Rood # KR10 </desc>
+</wpt>
+<wpt lat="51.61045" lon="4.103">
+<name>KR 11</name>
+<cmt>Groen # KR11 </cmt>
+<desc>Groen # KR11 </desc>
+</wpt>
+<wpt lat="51.61126666666667" lon="4.104416666666666">
+<name>KR 12</name>
+<cmt>Rood # KR12 </cmt>
+<desc>Rood # KR12 </desc>
+</wpt>
+<wpt lat="51.60885" lon="4.105083333333333">
+<name>KR 13</name>
+<cmt>Groen # KR13 </cmt>
+<desc>Groen # KR13 </desc>
+</wpt>
+<wpt lat="51.6074" lon="4.105883333333333">
+<name>KR 13A</name>
+<cmt>Groen # KR13A </cmt>
+<desc>Groen # KR13A </desc>
+</wpt>
+<wpt lat="51.609216666667" lon="4.10615">
+<name>KR 14</name>
+<cmt></cmt>
+<desc></desc>
+</wpt>
+<wpt lat="51.60776666666667" lon="4.1067">
+<name>KR 14A</name>
+<cmt>Rood # KR14A </cmt>
+<desc>Rood # KR14A </desc>
+</wpt>
+<wpt lat="51.606183333333334" lon="4.107266666666666">
+<name>KR 15</name>
+<cmt>Groen # KR15 </cmt>
+<desc>Groen # KR15 </desc>
+</wpt>
+<wpt lat="51.606416666666675" lon="4.107733333333333">
+<name>KR 16</name>
+<cmt>Rood # KR16 </cmt>
+<desc>Rood # KR16 </desc>
+</wpt>
+<wpt lat="51.60496666666667" lon="4.109516666666666">
+<name>KR 17</name>
+<cmt>Groen # KR17 </cmt>
+<desc>Groen # KR17 </desc>
+</wpt>
+<wpt lat="51.605133333333335" lon="4.110666666666666">
+<name>KR 18</name>
+<cmt>Rood # KR18 </cmt>
+<desc>Rood # KR18 </desc>
+</wpt>
+<wpt lat="51.6043" lon="4.113066666666667">
+<name>KR 18A</name>
+<cmt>Rood # KR18A </cmt>
+<desc>Rood # KR18A </desc>
+</wpt>
+<wpt lat="51.603833333333334" lon="4.112816666666666">
+<name>KR 19</name>
+<cmt>Groen # KR19 </cmt>
+<desc>Groen # KR19 </desc>
+</wpt>
+<wpt lat="51.60408333333334" lon="4.116933333333333">
+<name>KR 20</name>
+<cmt>Rood # KR20 </cmt>
+<desc>Rood # KR20 </desc>
+</wpt>
+<wpt lat="51.60345" lon="4.1169833333333">
+<name>KR 21</name>
+<cmt>Groen # KR21 </cmt>
+<desc>Groen # KR21 </desc>
+</wpt>
+<wpt lat="51.604733333333" lon="4.1228833333333">
+<name>KR 22</name>
+<cmt>Rood # KR22 </cmt>
+<desc>Rood # KR22 </desc>
+</wpt>
+<wpt lat="51.604233333333" lon="4.1232">
+<name>KR 23</name>
+<cmt></cmt>
+<desc></desc>
+</wpt>
+<wpt lat="51.606691666667" lon="4.12823">
+<name>KR 24</name>
+<cmt></cmt>
+<desc></desc>
+</wpt>
+<wpt lat="51.608228333333" lon="4.1297683333333">
+<name>KR 24A</name>
+<cmt></cmt>
+<desc></desc>
+</wpt>
+<wpt lat="51.606101666667" lon="4.1282883333333">
+<name>KR 25</name>
+<cmt></cmt>
+<desc></desc>
+</wpt>
+<wpt lat="51.607955" lon="4.1301433333333">
+<name>KR 25A</name>
+<cmt></cmt>
+<desc></desc>
+</wpt>
+<wpt lat="51.6102" lon="4.135350000000001">
+<name>KR 26</name>
+<cmt>Rood # KR26 </cmt>
+<desc>Rood # KR26 </desc>
+</wpt>
+<wpt lat="51.609616666666675" lon="4.1355">
+<name>KR 27</name>
+<cmt>Groen # KR27 </cmt>
+<desc>Groen # KR27 </desc>
+</wpt>
+<wpt lat="51.612" lon="4.144150000000001">
+<name>KR 28</name>
+<cmt>Rood # KR28 </cmt>
+<desc>Rood # KR28 </desc>
+</wpt>
+<wpt lat="51.61146666666667" lon="4.144483333333334">
+<name>KR 29</name>
+<cmt>Groen # KR29 </cmt>
+<desc>Groen # KR29 </desc>
+</wpt>
+<wpt lat="51.62272778" lon="4.08283611">
+<name>KR 3</name>
+<cmt>Groen # KR3 </cmt>
+<desc>Groen # KR3 </desc>
+</wpt>
+<wpt lat="51.6115" lon="4.153166666666667">
+<name>KR 30</name>
+<cmt>Rood # KR30 </cmt>
+<desc>Rood # KR30 </desc>
+</wpt>
+<wpt lat="51.61103611" lon="4.153375">
+<name>KR 31</name>
+<cmt>Groen # KR31 </cmt>
+<desc>Groen # KR31 </desc>
+</wpt>
+<wpt lat="51.61211666666667" lon="4.158116666666667">
+<name>KR 32</name>
+<cmt>Rood # KR32 </cmt>
+<desc>Rood # KR32 </desc>
+</wpt>
+<wpt lat="51.61188333333334" lon="4.158516666666667">
+<name>KR 33</name>
+<cmt>Groen # KR33 </cmt>
+<desc>Groen # KR33 </desc>
+</wpt>
+<wpt lat="51.61316666666666" lon="4.164116666666667">
+<name>KR 34</name>
+<cmt>Rood # KR34 </cmt>
+<desc>Rood # KR34 </desc>
+</wpt>
+<wpt lat="51.61271666666667" lon="4.164433333333334">
+<name>KR 35</name>
+<cmt>Groen # KR35 </cmt>
+<desc>Groen # KR35 </desc>
+</wpt>
+<wpt lat="51.6147" lon="4.169300000000001">
+<name>KR 36</name>
+<cmt>Rood # KR36 </cmt>
+<desc>Rood # KR36 </desc>
+</wpt>
+<wpt lat="51.61438333333334" lon="4.16985">
+<name>KR 37</name>
+<cmt>Groen # KR37 </cmt>
+<desc>Groen # KR37 </desc>
+</wpt>
+<wpt lat="51.615413333333" lon="4.172645">
+<name>KR 37A</name>
+<cmt></cmt>
+<desc></desc>
+</wpt>
+<wpt lat="51.6162" lon="4.17385">
+<name>KR 38</name>
+<cmt>Rood # KR38 </cmt>
+<desc>Rood # KR38 </desc>
+</wpt>
+<wpt lat="51.61515833" lon="4.17397778">
+<name>KR 39</name>
+<cmt>Groen # KR39 </cmt>
+<desc>Groen # KR39 </desc>
+</wpt>
+<wpt lat="51.62374444" lon="4.08423056">
+<name>KR 4</name>
+<cmt>Rood # KR4 </cmt>
+<desc>Rood # KR4 </desc>
+</wpt>
+<wpt lat="51.62015" lon="4.088349999999999">
+<name>KR 5</name>
+<cmt>Groen # KR5 </cmt>
+<desc>Groen # KR5 </desc>
+</wpt>
+<wpt lat="51.620716666666674" lon="4.089133333333333">
+<name>KR 6</name>
+<cmt>Rood # KR6 </cmt>
+<desc>Rood # KR6 </desc>
+</wpt>
+<wpt lat="51.616866666666674" lon="4.093999999999999">
+<name>KR 7</name>
+<cmt>Groen # KR7 </cmt>
+<desc>Groen # KR7 </desc>
+</wpt>
+<wpt lat="51.61755" lon="4.0953">
+<name>KR 8</name>
+<cmt>Rood # KR8 </cmt>
+<desc>Rood # KR8 </desc>
+</wpt>
+<wpt lat="51.61323333333333" lon="4.099533333333333">
+<name>KR 9</name>
+<cmt>Groen # KR9 </cmt>
+<desc>Groen # KR9 </desc>
+</wpt>
+</gpx>

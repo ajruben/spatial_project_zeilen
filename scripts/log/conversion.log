@@ -1,0 +1,14 @@
+2024-12-12 10:09:08,349 - ERROR - Input shapefile not found: data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp
+2024-12-12 10:09:08,350 - ERROR - Unexpected error during conversion: Shapefile not found: data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp
+2024-12-12 10:09:08,351 - ERROR - Conversion failed: Shapefile not found: data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp
+2024-12-12 10:09:42,750 - INFO - Processing shapefile: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp
+2024-12-12 10:09:43,132 - INFO - Successfully converted: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp to output\converted_data.gpkg
+2024-12-12 10:09:43,132 - INFO - Processing shapefile: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp
+2024-12-12 10:09:43,594 - INFO - Successfully converted: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp to output\converted_data.gpkg
+2024-12-12 10:09:43,595 - INFO - All shapefiles processed.
+2024-12-12 10:09:43,595 - INFO - Conversion completed successfully.
+2024-12-12 10:11:32,151 - INFO - Processing shapefile: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp
+2024-12-12 10:11:32,397 - INFO - Successfully converted: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp to ..\data\converted_data.gpkg
+2024-12-12 10:11:32,397 - INFO - Processing shapefile: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp
+2024-12-12 10:11:32,846 - INFO - Successfully converted: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp to ..\data\converted_data.gpkg
+2024-12-12 10:11:32,846 - INFO - All shapefiles processed.
