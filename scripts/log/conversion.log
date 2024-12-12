@@ -55,3 +55,8 @@
 2024-12-12 11:03:47,766 - INFO - Processing shapefile: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp
 2024-12-12 11:03:48,216 - INFO - Successfully converted: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp to ..\data\converted_datav1.gpkg
 2024-12-12 11:03:48,216 - INFO - All shapefiles processed.
+2024-12-12 11:05:16,920 - INFO - Processing shapefile: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp
+2024-12-12 11:05:17,181 - INFO - Successfully converted: ..\data\vaarweg_markering_drijvend_detail\vaarweg_markering_drijvend_detailPoint.shp to ..\data\converted_datav1.gpkg
+2024-12-12 11:05:17,181 - INFO - Processing shapefile: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp
+2024-12-12 11:05:17,631 - INFO - Successfully converted: ..\data\vaarweg_markering_vast_detail\vaarweg_markering_vast_detailPoint.shp to ..\data\converted_datav1.gpkg
+2024-12-12 11:05:17,631 - INFO - All shapefiles processed.
